@@ -1,0 +1,25 @@
+#nav{
+    background-color:rgb(240, 234, 245);
+    color:white;
+}
+#nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+#nav ul li{
+    display: inline-block;
+    
+    
+    
+}
+#nav ul li a{
+    padding: 8px 12px;
+    margin: 7px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    /* font-weight: bold; */
+    font-family: sans-serif;
+}
+.divh1 h1{
+    text-align: center;
+}
